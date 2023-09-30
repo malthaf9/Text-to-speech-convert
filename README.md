@@ -5,6 +5,8 @@ This is a simple web-based Text-to-Speech converter app. It allows users to inpu
 
 Features:
 - Input text and convert it to speech.
-- [Add any other features here]
+- Transform speech into text effortlessly with  Speech-to-Text Converter. 
 
-![Demo](https://althaf-text-to-speechconvert.netlify.app/)
+[Visit My Text-to-Speech Converter](https://althaf-text-to-speechconvert.netlify.app/)
+
+
